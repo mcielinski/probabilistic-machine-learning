@@ -1,4 +1,4 @@
-# probabilistic_machine_learning
+# probabilistic-machine-learning
 Assignments for the Probabilistic Machine Learning course.
 
 1. Introduction to probabilistic programming
